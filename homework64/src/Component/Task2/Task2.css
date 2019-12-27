@@ -1,0 +1,27 @@
+.inpBlock{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+.inpBlock input{
+    padding: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.inpBlock button{
+    margin-top: 20px;
+    width: 20%;
+    padding: 10px;
+    border-radius: 15px;
+    background: #26ff2f;
+    border: none;
+    color: white;
+}
+.cardMovie{
+    width: 40%;
+    padding:10px 30px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}

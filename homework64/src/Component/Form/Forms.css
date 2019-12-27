@@ -1,0 +1,16 @@
+.form{
+    border: 1px solid black;
+    width: 30%;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+.form input {
+    padding: 10px;
+    font-size: 18px;
+    width: 100%;
+}
+.form textarea{
+    width: 100%;
+    padding: 10px;
+}
